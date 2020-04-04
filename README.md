@@ -9,4 +9,5 @@ Project 2 is part of the intermediate Python course. The project does an analysi
 
 Project # 3 - 
 
-Project # 4 - []
+Project # 4 - [CIA Factbook Analysis](https://github.com/chrisselig/Dataquest_DataEngineer_Projects/tree/master/4_SQL_Fundamentals_Project)
+Project 4 is the first SQL course in the data engineer track. It is a quick exploration of the CIA factbook country data.

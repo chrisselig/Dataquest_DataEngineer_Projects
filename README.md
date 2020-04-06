@@ -12,3 +12,8 @@ Project 3 is part of the algorithm complexity course. In this course I learned a
 
 Project # 4 - [CIA Factbook Analysis](https://github.com/chrisselig/Dataquest_DataEngineer_Projects/tree/master/4_SQL_Fundamentals_Project)
 Project 4 is the first SQL course in the data engineer track. It is a quick exploration of the CIA factbook country data.
+
+Project # 5 - Added project #5 as # 6... it appears I cannot count.
+
+Project # 6 - [Intermediate SQL]()
+Project 6 is another SQL course where the goal was to analzye data from a fictious company that sold albums and music tracks.

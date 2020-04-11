@@ -17,3 +17,6 @@ Project # 5 - Added project #5 as # 6... it appears I cannot count.
 
 Project # 6 - [Intermediate SQL](https://github.com/chrisselig/Dataquest_DataEngineer_Projects/tree/master/6_Intermediate_SQL)
 Project 6 is another SQL course where the goal was to analzye data from a fictious company that sold albums and music tracks.
+
+Project # 7 - [Postgres for Data Engineers](https://github.com/chrisselig/Dataquest_DataEngineer_Projects/tree/master/7_Database_Creation_using_Postgres)
+Project 7 is about creating databases with postgres. In the project I created a database called crimes_db, added a schema, table (and loaded data to it), created user 2 user groups and added users to those groups.
